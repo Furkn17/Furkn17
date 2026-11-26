@@ -1,5 +1,4 @@
-[READMEd.md](https://github.com/user-attachments/files/35484186/READMEd.md)
-
+[README.md](https://github.com/user-attachments/files/35486479/README.md)
 <div align="center">
 
 <img src="./banner.svg" width="100%" alt="Furkan Yılmaz — Flutter Developer" />
@@ -10,7 +9,7 @@
 
 <p>
   <a href="https://Furkn17.github.io"><img src="https://img.shields.io/badge/Portfolio-02569B?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/furkan-y%C4%B1lmaz-391703301"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/furkanyilmaz17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:furknaylmz@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Furkn17&label=Profile%20views&color=13B9FD&style=for-the-badge" />
 </p>
